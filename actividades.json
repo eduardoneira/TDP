@@ -12,5 +12,33 @@
         "sugerencias": [],
         "recorridos": [],
         "lugar": "aeropuerto_iguazu"
+    },
+	"3": {
+        "nombre": "Ida Bs As -> Bariloche",
+        "descripción": "Vuelo de ida de Buenos Aires a Bariloche por LATAM",
+        "sugerencias": [],
+        "recorridos": [],
+        "lugar": "aeroparque_jorge_newbery"
+    },
+    "4": {
+        "nombre": "Vuelta Bariloche -> Bs As",
+        "descripción": "Vuelo de vuela de Bariloche a Buenos Aires por LATAM",
+        "sugerencias": [],
+        "recorridos": [],
+        "lugar": "aeropuerto_iguazu"
+    },
+	"5": {
+        "nombre": "Ida Bs As -> Salta",
+        "descripción": "Vuelo de ida de Buenos Aires a Salta por LATAM",
+        "sugerencias": [],
+        "recorridos": [],
+        "lugar": "aeroparque_jorge_newbery"
+    },
+    "6": {
+        "nombre": "Vuelta Salta -> Bs As",
+        "descripción": "Vuelo de vuela de Salta a Buenos Aires por LATAM",
+        "sugerencias": [],
+        "recorridos": [],
+        "lugar": "aeropuerto_iguazu"
     }
 }

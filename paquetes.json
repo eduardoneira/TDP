@@ -4,5 +4,17 @@
         "lugar": "iguazu",
         "intereses": ["trekking", "pesca"],
         "productos": ["1","2","3"] 
+    },
+	"bariloche": {
+        "imagen": "assets/bariloche.jpg",
+        "lugar": "bariloche",
+        "intereses": ["trekking", "pesca", "montañismo", "camping"],
+        "productos": ["1","2","4","6"] 
+    },
+	"salta": {
+        "imagen": "assets/salta.jpg",
+        "lugar": "salta",
+        "intereses": ["trekking", "montañismo"],
+        "productos": ["1","2","5"] 
     }
 }

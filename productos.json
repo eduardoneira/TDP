@@ -1,5 +1,5 @@
 {
-    "0": {
+    "1": {
         "nombre": "Mochila Montagne 40 Lts",
         "imagen": "assets/mochila_montagne_40_lts.jpg",
         "descripcion": "Mochila de Camping Montagne de 40 Lts",
@@ -24,6 +24,26 @@
         "imagen": "assets/vuelo_latam.jpg",
         "descripcion": "Vuelo directo de Buenos Aires a Iguazu por LATAM",
         "precio": "3500",
+        "categorias": ["vuelo"],
+        "intereses": [],
+        "actividades": ["1", "2"],
+        "mapa": "aeroparque_jorge_newbery"       
+    },
+    "4": {
+        "nombre": "Vuelo LATAM Bs As <-> Bariloche",
+        "imagen": "assets/vuelo_latam.jpg",
+        "descripcion": "Vuelo directo de Buenos Aires a Bariloche por LATAM",
+        "precio": "4600",
+        "categorias": ["vuelo"],
+        "intereses": [],
+        "actividades": ["1", "2"],
+        "mapa": "aeroparque_jorge_newbery"       
+    },
+    "5": {
+        "nombre": "Vuelo LATAM Bs As <-> Salta",
+        "imagen": "assets/vuelo_latam.jpg",
+        "descripcion": "Vuelo directo de Buenos Aires a Salta por LATAM",
+        "precio": "3200",
         "categorias": ["vuelo"],
         "intereses": [],
         "actividades": ["1", "2"],

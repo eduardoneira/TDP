@@ -40,5 +40,20 @@
         "sugerencias": [],
         "recorridos": [],
         "lugar": "aeropuerto_iguazu"
+    },
+    "7": {
+        "nombre": "Cataratas del Iguazu",
+        "descripción": "Las majestuosas Cataratas del Iguazú se encuentran en el interior del Parque Nacional Iguazú, un área de preservación de la naturaleza que abarca 67.720 hectáreas en el extremo norte de la Provincia de Misiones, en la República Argentina.",
+        "sugerencias": ["1", "2"],
+        "recorridos": ["1", "2"],
+        "lugar": "cataratas_iguazu"
+    },
+    "8": {
+        "nombre": "Minas de Wanda",
+        "descripción": "Las majestuosas Cataratas del Iguazú se encuentran en el interior del Parque Nacional Iguazú, un área de preservación de la naturaleza que abarca 67.720 hectáreas en el extremo norte de la Provincia de Misiones, en la República Argentina.",
+        "sugerencias": ["3"],
+        "recorridos": ["3"],
+        "lugar": "minas_de_wanda"
     }
+
 }

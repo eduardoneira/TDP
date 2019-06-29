@@ -88,5 +88,55 @@
         "intereses": ["camping"],
         "actividades": [],
         "mapa": null    
-    }   
+    },
+    "10": {
+        "nombre": "Campera Montagne Polar Tibalt",
+        "imagen": "assets/campera_hombre_negra.jpg",
+        "descripcion": "Campera Montagne de Hombre Polar Tibalt",
+        "precio": "2800",
+        "categorias": ["equipamiento"],
+        "intereses": ["trekking"],
+        "actividades": [],
+        "mapa": null      
+    },
+    "11": {
+        "nombre": "Alojamiento Hostel Cabañas Araticu",
+        "imagen": "assets/hostel.jpg",
+        "descripcion": "Alojamiento en Hostel Cabañas Araticu",
+        "precio": "500/dia",
+        "categorias": ["alojamiento"],
+        "intereses": [],
+        "actividades": [],
+        "mapa": "hostel_araticu"          
+    },
+    "12": {
+        "nombre": "Alojamiento Camping Agreste Costa Ramon",
+        "imagen": "assets/camping.jpeg",
+        "descripcion": "Alojamiento en Camping Agrestre Costa Ramon",
+        "precio": "200/dia",
+        "categorias": ["alojamiento"],
+        "intereses": [],
+        "actividades": [],
+        "mapa": "camping_agrestre_costa_ramon"  
+    },
+    "13": {
+        "nombre": "Transporte Cataratas del Iguazu",
+        "imagen": "assets/combi.jpeg",
+        "descripcion": "Transporte en Combi a las Cataratas del Iguazu",
+        "precio": "700",
+        "categorias": ["transporte"],
+        "intereses": [],
+        "actividades": ["7"],
+        "mapa": null         
+    },
+    "14": {
+        "nombre": "Transporte Minas de Wanda",
+        "imagen": "assets/combi.jpeg",
+        "descripcion": "Transporte en Combi a las Minas de Wanda",
+        "precio": "700",
+        "categorias": ["transporte"],
+        "intereses": [],
+        "actividades": ["8"],
+        "mapa": null         
+    }
 }

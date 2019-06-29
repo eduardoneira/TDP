@@ -10,5 +10,21 @@
     "aeropuerto_iguazu": {
         "coordenadas": [-25.6647265, -54.5523874, 12],
         "descripcion": "Aeropuerto Internacional Cataratas del Iguazu"
+    },
+    "hostel_araticu": {
+        "coordenadas": [-25.6150288, -54.5773455, 17],
+        "descripcion": "Hostel Araticu"
+    },
+    "camping_agrestre_costa_ramon": {
+        "coordenadas": [-25.6004847, -54.5940276, 17],
+        "descripcion": "Camping Agrestre Costa Ramon"
+    },
+    "cataratas_iguazu": {
+        "coordenadas": [-25.6809586, -54.478353, 13],
+        "descripcion": "Cataratas del Iguazu"
+    },
+    "minas_de_wanda": {
+        "coordenadas": [-25.9580221, -54.5998929, 17],
+        "descripcion": "Minas de Wanda"
     }
 }

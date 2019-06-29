@@ -1,11 +1,36 @@
 {
     "1": {
-        "nombre": "Recorrido de test",
-        "duracion": "5",
-        "dificultad": "Media",
+        "nombre": "Recorrido a las cataratas del Iguazu - Directo",
+        "duracion": "2",
+        "dificultad": "Facil",
         "camino": [
-            [1, 2, 3],
-            [4, 5, 6]
+            [-25.6842081, -54.4458484, 17],
+            [-25.6837223, -54.4459691, 17],
+            [-25.6852984, -54.4465314, 17]
+        ]
+    },
+    "2": {
+        "nombre": "Recorrido por todas cataratas del Iguazu",
+        "duracion": "5",
+        "dificultad": "Medio",
+        "camino": [
+            [-25.6842081, -54.4458484, 17],
+            [-25.6837223, -54.4459691, 17],
+            [-25.6830363, -54.4431765, 17],
+            [-25.6834761, -54.4432627, 17],
+            [-25.6851563, -54.4447538, 17],
+            [-25.6852984, -54.4465314, 17],
+            [-25.6840061, -54.4455597, 17]
+        ]
+    },
+    "3": {
+        "nombre": "Recorrido hasta las minas de Wanda",
+        "duracion": "2",
+        "dificultad": "Facil",
+        "camino": [
+            [-25.9577186, -54.5984181, 17],
+            [-25.9578738, -54.5991625, 17],
+            [-25.9579238, -54.5992477, 17]
         ]
     }
 }

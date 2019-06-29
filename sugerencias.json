@@ -1,7 +1,17 @@
 {
     "1": {
-        "autor": "Pepito",
-        "descripcion": "Cuidado",
-        "puntaje": 20
+        "autor": "Carla Minch",
+        "descripcion": "Cuidado con el agua! Hay que llevar ropa inmpermeable si o si",
+        "puntaje": 32
+    },
+    "2": {
+        "autor": "Pedro Alfonso",
+        "descripcion": "La comida es rica pero muy cara en el lugar",
+        "puntaje": 9
+    },
+    "3": {
+        "autor": "Marcelo Gallardo",
+        "descripcion": "Lindo para ir a la mañana pero mucha gente",
+        "puntaje": 3       
     }
 }

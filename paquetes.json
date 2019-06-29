@@ -1,0 +1,8 @@
+{
+    "iguazu": {
+        "imagen": "assets/iguazu.jpg",
+        "lugar": "iguazu",
+        "intereses": ["trekking", "pesca"],
+        "productos": ["1","2","3"] 
+    }
+}

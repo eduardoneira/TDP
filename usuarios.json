@@ -1,0 +1,14 @@
+{
+    "1": {
+        "nombre": "Roberto",
+        "apellido": "Bufarindela",
+        "email": "roberto.bufarindela@gmail.com",
+        "tarjeta": {
+            "numero": "1234 5678 9012 3456",
+            "fecha_de_vencimiento": "01/20"
+        },
+        "foto": null,
+        "contraseña": "1234",
+        "viajes": [1]
+    }
+}

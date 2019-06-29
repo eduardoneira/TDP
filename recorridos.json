@@ -1,0 +1,11 @@
+{
+    "1": {
+        "nombre": "Recorrido de test",
+        "duracion": "5",
+        "dificultad": "Media",
+        "camino": [
+            [1, 2, 3],
+            [4, 5, 6]
+        ]
+    }
+}

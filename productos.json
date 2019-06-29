@@ -1,0 +1,32 @@
+{
+    "0": {
+        "nombre": "Mochila Montagne 40 Lts",
+        "imagen": "assets/mochila_montagne_40_lts.jpg",
+        "descripcion": "Mochila de Camping Montagne de 40 Lts",
+        "precio": "2500",
+        "categorias": ["equipamiento"],
+        "intereses": ["camping", "trekking"],
+        "actividades": [],
+        "mapa": null
+    },
+    "2": {
+        "nombre": "Mochila Montagne 68 Lts",
+        "imagen": "assets/mochila_montagne_68_lts.jpg",
+        "descripcion": "Mochila de Camping Montagne de 68 Lts",
+        "precio": "4500",
+        "categorias": ["equipamiento"],
+        "intereses": ["camping", "trekking"],
+        "actividades": [],
+        "mapa": null
+    },
+    "3": {
+        "nombre": "Vuelo LATAM Bs As <-> Iguazu",
+        "imagen": "assets/vuelo_latam.jpg",
+        "descripcion": "Vuelo directo de Buenos Aires a Iguazu por LATAM",
+        "precio": "3500",
+        "categorias": ["vuelo"],
+        "intereses": null,
+        "actividades": ["1", "2"],
+        "mapa": "aeroparque_jorge_newbery"       
+    }
+}

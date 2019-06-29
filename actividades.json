@@ -1,0 +1,16 @@
+{
+    "1": {
+        "nombre": "Ida Bs As -> Iguazu",
+        "descripción": "Vuelo de ida de Buenos Aires a Iguazu por LATAM",
+        "sugerencias": [],
+        "recorridos": [],
+        "lugar": "aeroparque_jorge_newbery"
+    },
+    "2": {
+        "nombre": "Vuelta Iguazu -> Bs As",
+        "descripción": "Vuelo de vuela de Iguazu a Buenos Aires por LATAM",
+        "sugerencias": [],
+        "recorridos": [],
+        "lugar": "aeropuerto_iguazu"
+    }
+}

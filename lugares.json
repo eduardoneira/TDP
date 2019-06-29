@@ -1,0 +1,14 @@
+{
+    "iguazu": {
+        "coordenadas": [-25.683187, -54.454701, 12],
+        "descripcion": "Las majestuosas Cataratas del Iguazú se encuentran en el interior del Parque Nacional Iguazú, un área de preservación de la naturaleza que abarca 67.720 hectáreas en el extremo norte de la Provincia de Misiones, en la República Argentina."
+    },
+    "aeroparque_jorge_newbery": {
+        "coordenadas": [-34.5541179, -58.4208929, 17],
+        "descripcion": "Aeroparque Jorge Newbery"
+    },
+    "aeropuerto_iguazu": {
+        "coordenadas": [-25.6647265, -54.5523874, 12],
+        "descripcion": "Aeropuerto Internacional Cataratas del Iguazu"
+    }
+}

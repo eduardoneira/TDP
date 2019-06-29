@@ -1,0 +1,20 @@
+{
+    "trekking": {
+        "epoca": ["verano", "primavera"]
+    },
+    "montañismo": {
+        "epoca": ["verano"]
+    },
+    "playa": {
+        "epoca": ["verano"]
+    },
+    "pesca": {
+        "epoca":["verano", "otoño", "invierno", "primavera"]
+    },
+    "deportes de nieve": {
+        "epoca": ["invierno"]
+    },
+    "camping": {
+        "epoca":["verano", "otoño", "invierno", "primavera"]  
+    }
+}

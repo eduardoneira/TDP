@@ -48,5 +48,45 @@
         "intereses": [],
         "actividades": ["1", "2"],
         "mapa": "aeroparque_jorge_newbery"       
-    }
+    },
+    "6": {
+        "nombre": "Zapatillas Bota Trekking Hombre",
+        "imagen": "assets/zapatilla_montage_trekking_negras.jpg",
+        "descripcion": "Zapatillas Bota de Hombre para Trekking",
+        "precio": "4000",
+        "categorias": ["equipamiento"],
+        "intereses": ["trekking"],
+        "actividades": [],
+        "mapa": null 
+    },
+    "7": {
+        "nombre": "Zapatillas Trail Running Mujer",
+        "imagen": "assets/zapatilla_montage_trekking_mujer.jpg",
+        "descripcion": "Zapatillas Trail Running Montagne para mujer",
+        "precio": "2000",
+        "categorias": ["equipamiento"],
+        "intereses": ["trekking"],
+        "actividades": [],
+        "mapa": null 
+    },
+    "8": {
+        "nombre": "Bolsa de dormir Montagne Guinea Pro",
+        "imagen": "assets/bolsa_de_dormir_guinea_pro.jpg",
+        "descripcion": "Bolsa de dormir hasta -15°C Montagne Guinea Pro con relleno de pluma",
+        "precio": "6000",
+        "categorias": ["equipamiento"],
+        "intereses": ["camping"],
+        "actividades": [],
+        "mapa": null         
+    },
+    "9": {
+        "nombre": "Bolsa de dormir Travel Eco",
+        "imagen": "assets/bolsa_de_dormir_travel_eco.jpg",
+        "descripcion": "Bolsa de dormir Montagne Travel Eco",
+        "precio": "1500",
+        "categorias": ["equipamiento"],
+        "intereses": ["camping"],
+        "actividades": [],
+        "mapa": null    
+    }   
 }

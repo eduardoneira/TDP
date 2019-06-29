@@ -3,7 +3,7 @@
         "imagen": "assets/iguazu.jpg",
         "lugar": "iguazu",
         "intereses": ["trekking", "pesca"],
-        "productos": ["1","2","3"] 
+        "productos": ["1","2","3","6","7","8","9"] 
     },
 	"bariloche": {
         "imagen": "assets/bariloche.jpg",

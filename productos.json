@@ -25,7 +25,7 @@
         "descripcion": "Vuelo directo de Buenos Aires a Iguazu por LATAM",
         "precio": "3500",
         "categorias": ["vuelo"],
-        "intereses": null,
+        "intereses": [],
         "actividades": ["1", "2"],
         "mapa": "aeroparque_jorge_newbery"       
     }

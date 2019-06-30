@@ -140,6 +140,28 @@
         "mapa": null         
     },
 	
+	"91": {
+		"nombre": "Cantimplora Explorer 1lt con funda",
+        "imagen": "assets/cantimplora_explorer_1l.jpeg",
+        "descripcion": "Transporte en Combi a las Minas de Wanda",
+        "precio": "485",
+        "categorias": ["equipamiento"],
+        "intereses": ["camping","trekking"],
+        "actividades": [],
+        "mapa": null         
+	},
+	
+	"92": {
+		"nombre": "Aislante térmico aluminado 10mm",
+        "imagen": "assets/aislante_termico.jpeg",
+        "descripcion": "Transporte en Combi a las Minas de Wanda",
+        "precio": "159",
+        "categorias": ["equipamiento"],
+        "intereses": ["camping"],
+        "actividades": [],
+        "mapa": null         
+	},
+	
 	"101": {
 		"nombre": "Transporte Cerro Tronador",
         "imagen": "assets/combi.jpeg",
@@ -161,6 +183,26 @@
         "actividades": ["102"],
         "mapa": null
 	},
+    "103": {
+        "nombre": "Alojamiento Hostel Tierra Gaucha",
+        "imagen": "assets/hostel2.jpg",
+        "descripcion": "Alojamiento en Hostel Tierra Gaucha",
+        "precio": "635/dia",
+        "categorias": ["alojamiento"],
+        "intereses": [],
+        "actividades": [],
+        "mapa": "hostel_tierra_gaucha"          
+    },
+    "104": {
+        "nombre": "Alojamiento Camping Los Coihues",
+        "imagen": "assets/camping.jpeg",
+        "descripcion": "Alojamiento en Camping Los Coihues",
+        "precio": "200/dia",
+        "categorias": ["alojamiento"],
+        "intereses": [],
+        "actividades": [],
+        "mapa": "camping_los_coihues"  
+    },
 	
 	"201": {
 		"nombre": "Tren a las Nubes",

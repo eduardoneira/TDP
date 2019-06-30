@@ -5,4 +5,16 @@
         "fecha_vuelta": "15/01/20",
         "itinerario": "1" 
     }
+	"100": {
+        "lugar": "bariloche",
+        "fecha_ida": "01/01/20",
+        "fecha_vuelta": "15/01/20",
+        "itinerario": "1" 
+    }
+	"200": {
+        "lugar": "salta",
+        "fecha_ida": "01/01/20",
+        "fecha_vuelta": "15/01/20",
+        "itinerario": "1" 
+    }
 }

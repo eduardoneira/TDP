@@ -13,5 +13,11 @@
         "autor": "Marcelo Gallardo",
         "descripcion": "Lindo para ir a la mañana pero mucha gente",
         "puntaje": 3       
-    }
+    },
+	
+	"202": {
+		"autor": "Alicia Gonzalez",
+        "descripcion": "Hermoso paisaje, pero hay que cuidarse del sol. Lleven anteojos de sol y protector!",
+        "puntaje": 27      
+	}
 }

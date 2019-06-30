@@ -26,5 +26,35 @@
     "minas_de_wanda": {
         "coordenadas": [-25.9580221, -54.5998929, 17],
         "descripcion": "Minas de Wanda"
-    }
+    },
+	
+	"cerro_tronador": {
+		"coordenadas": [-41.165025, -71.881937, 17],
+		"descripcion": "Cerro Tronador"
+	},	
+	"cerro_catedral": {
+		"coordenadas": [-41.173421, -71.451056, 17],
+		"descripcion": "Cerro Catedral"
+	},
+	
+    "aeropuerto_bariloche": {
+        "coordenadas": [-41.143391, -71.162773, 12],
+        "descripcion": "Aeropuerto Internacional de Bariloche Tte. Luis Candelaria"
+    },
+    "aeropuerto_salta": {
+        "coordenadas": [-24.839798, -65.478118, 12],
+        "descripcion": "Aeropuerto Internacional General Martín Miguel de Güemes"
+    },
+	"santa_rosa_de_tastil": {
+		"coordenadas": [-24.451934, -65.955066, 17],
+        "descripcion": "Santa Rosa de Tastil"
+	},
+	"salinas_grandes": {
+		"coordenadas": [-23.598812, -65.879035, 17],
+        "descripcion": "Salinas Grandes"
+	},
+	"cafayate": {
+		"coordenadas": [-26.005748, -65.807340, 17],
+        "descripcion": "Cafayate"
+	}
 }

@@ -9,12 +9,12 @@
         "imagen": "assets/bariloche.jpg",
         "lugar": "bariloche",
         "intereses": ["trekking", "pesca", "montañismo", "camping"],
-        "productos": ["1","2","4","6"] 
+        "productos": ["1","2","4","6","7","8","9","10","11",] 
     },
 	"salta": {
         "imagen": "assets/salta.jpg",
         "lugar": "salta",
         "intereses": ["trekking", "montañismo"],
-        "productos": ["1","2","5"] 
+        "productos": ["1","2","5","7","8","9","10"] 
     }
 }

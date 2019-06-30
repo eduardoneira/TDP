@@ -138,5 +138,38 @@
         "intereses": [],
         "actividades": ["8"],
         "mapa": null         
-    }
+    },
+	
+	"101": {
+		"nombre": "Transporte Cerro Tronador",
+        "imagen": "assets/combi.jpeg",
+        "descripcion": "Transporte en Combi a la base del Cerro Tronador",
+        "precio": "450",
+        "categorias": ["transporte"],
+        "intereses": [],
+        "actividades": ["101"],
+        "mapa": null
+	},
+	
+	"102": {
+		"nombre": "Transporte Cerro Catedral",
+        "imagen": "assets/combi.jpeg",
+        "descripcion": "Transporte en Combi a la base del Cerro Catedral",
+        "precio": "600",
+        "categorias": ["transporte"],
+        "intereses": [],
+        "actividades": ["102"],
+        "mapa": null
+	},
+	
+	"201": {
+		"nombre": "Tren a las Nubes",
+        "imagen": "assets/tren_nubes.jpeg",
+        "descripcion": "Transporte en Bus hasta San Antonio de Los Cobres para luego subirse al Tren a las Nubes",
+        "precio": "3600",
+        "categorias": ["transporte"],
+        "intereses": [],
+        "actividades": ["201"],
+        "mapa": null
+	}
 }

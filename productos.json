@@ -171,5 +171,38 @@
         "intereses": [],
         "actividades": ["201"],
         "mapa": null
+	},
+	
+	"202": {
+		"nombre": "Transporte Salinas Grandes",
+        "imagen": "assets/salinas_grandes.jpeg",
+        "descripcion": "Transporte en Combi al salas Salinas Grandes",
+        "precio": "1000",
+        "categorias": ["transporte"],
+        "intereses": [],
+        "actividades": ["202"],
+        "mapa": null
+	},
+	
+	"203": {
+		"nombre": "Transporte y Guía para Ruinas de Tastil",
+        "imagen": "assets/santa_rosa_de_tastil.jpeg",
+        "descripcion": "Transporte en Combi a las Ruinas de Tastil y un guía experto en la historia de las ruinas",
+        "precio": "1700",
+        "categorias": ["transporte"],
+        "intereses": [],
+        "actividades": ["203"],
+        "mapa": null
+	},
+	
+	"204": {
+		"nombre": "Transporte y Tour Cafayate",
+        "imagen": "assets/cafayate.jpeg",
+        "descripcion": "Transporte en Combi en los alrededores de Cafayate",
+        "precio": "700",
+        "categorias": ["transporte"],
+        "intereses": [],
+        "actividades": ["204"],
+        "mapa": null
 	}
 }
